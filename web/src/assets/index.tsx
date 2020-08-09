@@ -1,0 +1,13 @@
+export { default as Logo} from './images/logo.svg'
+export { default as LandingImg} from './images/landing.svg'
+export { default as Sucess } from './images/success-background.svg'
+
+export { default as Back} from './images/icons/back.svg'
+export { default as Give} from './images/icons/give-classes.svg'
+export { default as Heart} from './images/icons/purple-heart.svg'
+export { default as Rocket} from './images/icons/rocket.svg'
+export { default as Smile} from './images/icons/smile.svg'
+export { default as Study} from './images/icons/study.svg'
+export { default as Check} from './images/icons/success-check-icon.svg'
+export { default as Warning} from './images/icons/warning.svg'
+export { default as Whatsapp} from './images/icons/whatsapp.svg'
